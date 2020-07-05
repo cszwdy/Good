@@ -480,7 +480,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tal.imonkey.chinese;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tal.imonkey.chineses;
 				PRODUCT_NAME = Good;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -504,7 +504,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.tal.imonkey.chinese;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tal.imonkey.chineses;
 				PRODUCT_NAME = Good;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
